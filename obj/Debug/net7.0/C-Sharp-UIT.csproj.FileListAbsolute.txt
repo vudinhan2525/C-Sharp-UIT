@@ -1,0 +1,14 @@
+C:\Users\admin\Documents\Github\Test\C-Sharp-UIT\bin\Debug\net7.0\C-Sharp-UIT.exe
+C:\Users\admin\Documents\Github\Test\C-Sharp-UIT\bin\Debug\net7.0\C-Sharp-UIT.deps.json
+C:\Users\admin\Documents\Github\Test\C-Sharp-UIT\bin\Debug\net7.0\C-Sharp-UIT.runtimeconfig.json
+C:\Users\admin\Documents\Github\Test\C-Sharp-UIT\bin\Debug\net7.0\C-Sharp-UIT.dll
+C:\Users\admin\Documents\Github\Test\C-Sharp-UIT\bin\Debug\net7.0\C-Sharp-UIT.pdb
+C:\Users\admin\Documents\Github\Test\C-Sharp-UIT\obj\Debug\net7.0\C-Sharp-UIT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Documents\Github\Test\C-Sharp-UIT\obj\Debug\net7.0\C-Sharp-UIT.AssemblyInfoInputs.cache
+C:\Users\admin\Documents\Github\Test\C-Sharp-UIT\obj\Debug\net7.0\C-Sharp-UIT.AssemblyInfo.cs
+C:\Users\admin\Documents\Github\Test\C-Sharp-UIT\obj\Debug\net7.0\C-Sharp-UIT.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\Github\Test\C-Sharp-UIT\obj\Debug\net7.0\C-Sharp-UIT.dll
+C:\Users\admin\Documents\Github\Test\C-Sharp-UIT\obj\Debug\net7.0\refint\C-Sharp-UIT.dll
+C:\Users\admin\Documents\Github\Test\C-Sharp-UIT\obj\Debug\net7.0\C-Sharp-UIT.pdb
+C:\Users\admin\Documents\Github\Test\C-Sharp-UIT\obj\Debug\net7.0\C-Sharp-UIT.genruntimeconfig.cache
+C:\Users\admin\Documents\Github\Test\C-Sharp-UIT\obj\Debug\net7.0\ref\C-Sharp-UIT.dll
